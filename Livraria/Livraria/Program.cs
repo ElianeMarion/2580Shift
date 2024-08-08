@@ -22,14 +22,16 @@ meuLivro.SetIdioma("Ingles");
 meuLivro.ExibirDados();
 //Console.WriteLine(meuLivro.Nome + " foi publicado pela editora: " + meuLivro.Editora.Nome);
 
-Livro livroUML = new Livro("UML2");
+LivroFisico livroUML = new LivroFisico("UML2", 100);
 //livroUML.Nome = "UML2";
 livroUML.Autor = "Gilleanes Guedes";
 livroUML.Paginas = 485;
-livroUML.Valor = 100;
 livroUML.Resumo = "UML 2.0 uma abordagem prática";
 //livroUML.Idioma = "Portugues";
 livroUML.ExibirDados();
 
+LivroDigital livroDigital = new LivroDigital();
+livroDigital.Nome = "Sem criatividade";
 
-Editora erika = new Editora();
+RegistroVendas carrinho = new RegistroVendas();
+carrinho.Adicionar(livroUML);

@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.sourcelink.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Banco\obj\Debug\net8.0\ref\Banco.dll

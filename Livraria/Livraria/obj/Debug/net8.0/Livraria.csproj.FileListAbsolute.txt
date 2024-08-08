@@ -12,3 +12,4 @@ C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Livrari
 C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Livraria\Livraria\obj\Debug\net8.0\Livraria.pdb
 C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Livraria\Livraria\obj\Debug\net8.0\Livraria.genruntimeconfig.cache
 C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Livraria\Livraria\obj\Debug\net8.0\ref\Livraria.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\Livraria\Livraria\obj\Debug\net8.0\Livraria.sourcelink.json

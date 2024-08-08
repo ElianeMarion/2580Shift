@@ -30,7 +30,7 @@ namespace Livraria
 		public string Resumo { get; set; }
 		
 		private double valor;
-		public double Valor { get { return valor; } set { valor = value; } }
+		public double Valor { get; set; }
 
 		private int paginas;
 		public int Paginas { get { return paginas; } set { paginas = value; } }
@@ -53,7 +53,7 @@ namespace Livraria
 			Console.WriteLine(titulo);
 			Console.WriteLine("Nome: " + _nome);
 			Console.WriteLine("Resumo:" + Resumo);
-			Console.WriteLine("Valor: " + Valor);
+			Console.WriteLine("Valor: " + valor);
 			Console.WriteLine("Páginas: " + Paginas);
 
 			if (TemEditora())
@@ -110,7 +110,11 @@ namespace Livraria
 			Editora = editora;
 		}
 
-	
+		public Livro(string nome, double valor)
+		{
+			_nome = nome;
+			this.valor = valor;
+		}
 
 		public Livro(string nome, Editora editora)
 		{
