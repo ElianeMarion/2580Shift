@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\bin\Debug\net8.0\ProjetoAuxiliar.exe
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\bin\Debug\net8.0\ProjetoAuxiliar.deps.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\bin\Debug\net8.0\ProjetoAuxiliar.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\bin\Debug\net8.0\ProjetoAuxiliar.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\bin\Debug\net8.0\ProjetoAuxiliar.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.sourcelink.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\refint\ProjetoAuxiliar.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ProjetoAuxiliar.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoAuxiliar\obj\Debug\net8.0\ref\ProjetoAuxiliar.dll

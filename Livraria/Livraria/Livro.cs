@@ -47,6 +47,8 @@ namespace Livraria
 		}
 
         public Editora Editora { get; set; }
+
+		public ETipoCapa TipoCapa { get; set; }
         public void ExibirDados()
 		{
 			string titulo = "\nDETALHES DO LIVRO";
@@ -112,13 +114,13 @@ namespace Livraria
 
 		public Livro(string nome, double valor)
 		{
-			_nome = nome;
+			Nome = nome;
 			this.valor = valor;
 		}
 
 		public Livro(string nome, Editora editora)
 		{
-			_nome = nome;
+			Nome = nome;
 			Editora = editora;
 		}
 		public Livro() { }

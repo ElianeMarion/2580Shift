@@ -27,6 +27,7 @@ LivroFisico livroUML = new LivroFisico("UML2", 100);
 livroUML.Autor = "Gilleanes Guedes";
 livroUML.Paginas = 485;
 livroUML.Resumo = "UML 2.0 uma abordagem prática";
+livroUML.TipoCapa = ETipoCapa.Capa_Dura;
 //livroUML.Idioma = "Portugues";
 livroUML.ExibirDados();
 
@@ -35,3 +36,6 @@ livroDigital.Nome = "Sem criatividade";
 
 RegistroVendas carrinho = new RegistroVendas();
 carrinho.Adicionar(livroUML);
+
+Console.WriteLine(livroUML.TipoCapa);
+Console.WriteLine((int)livroUML.TipoCapa);

@@ -9,5 +9,6 @@ namespace Livraria
 	public class LivroDigital : Livro
 	{
         public string MarcaDagua { get; set; }
+
     }
 }

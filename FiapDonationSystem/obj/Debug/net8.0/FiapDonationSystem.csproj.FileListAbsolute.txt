@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\bin\Debug\net8.0\FiapDonationSystem.exe
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\bin\Debug\net8.0\FiapDonationSystem.deps.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\bin\Debug\net8.0\FiapDonationSystem.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\bin\Debug\net8.0\FiapDonationSystem.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\bin\Debug\net8.0\FiapDonationSystem.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.sourcelink.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\refint\FiapDonationSystem.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\FiapDonationSystem.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\FiapDonationSystem\obj\Debug\net8.0\ref\FiapDonationSystem.dll
