@@ -10,5 +10,9 @@ namespace Livraria
 	{
         public string MarcaDagua { get; set; }
 
+		public LivroDigital(string nome, double valor) : base(nome, valor) { }
+
+		public LivroDigital() { }
+
     }
 }

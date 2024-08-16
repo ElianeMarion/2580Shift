@@ -36,6 +36,25 @@ livroDigital.Nome = "Sem criatividade";
 
 RegistroVendas carrinho = new RegistroVendas();
 carrinho.Adicionar(livroUML);
+carrinho.Adicionar(meuLivro);
 
 Console.WriteLine(livroUML.TipoCapa);
 Console.WriteLine((int)livroUML.TipoCapa);
+
+
+Revista revista = new Revista();
+revista.Nome = "SQL Magazine";
+revista.Preco = 40.0;
+revista.Descricao = "Revista especializada sobre Banco de Dados";
+revista.Editora = novaEditora;
+carrinho.Adicionar(revista);
+Console.WriteLine("Total da compra R$ " + carrinho.Total);
+
+Console.Clear();
+RepositorioLivros repositorioLivros = new RepositorioLivros();
+//repositorioLivros.AddArrayList();
+//repositorioLivros.ExibirArrayList();
+
+repositorioLivros.ExibirListaforeach();
+repositorioLivros.BuscarPorTitulo("TesteLd");
+

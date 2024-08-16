@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Livraria
 {
-	public class Livro
+	public class Livro : IExemplar
 	{
 		//Padrão: CamelCase - NotaFiscal - ContaCorrente - PessoaFisica
 		//Descrever a classe
@@ -53,9 +53,9 @@ namespace Livraria
 		{
 			string titulo = "\nDETALHES DO LIVRO";
 			Console.WriteLine(titulo);
-			Console.WriteLine("Nome: " + _nome);
+			Console.WriteLine("Nome: " + Nome);
 			Console.WriteLine("Resumo:" + Resumo);
-			Console.WriteLine("Valor: " + valor);
+			Console.WriteLine("Valor: " + Valor);
 			Console.WriteLine("Páginas: " + Paginas);
 
 			if (TemEditora())
@@ -85,17 +85,32 @@ namespace Livraria
 			return Editora != null;
 		}
 
-		
+		string IExemplar.GetNome()
+		{
+			return Nome;
+		}
+
+		double IExemplar.GetPreco()
+		{
+			return Valor;
+		}
+
+		void IExemplar.ExibirDados()
+		{
+			ExibirDados();
+		}
+
+
 		//Método Construtor
 		public Livro(string nome, string resumo)
 		{
-			_nome = nome;
+			Nome = nome;
 			Resumo = resumo;
 		}
 
 		public Livro(string nome)
 		{
-			_nome = nome;
+			Nome = nome;
 	
 		}
 
@@ -115,7 +130,7 @@ namespace Livraria
 		public Livro(string nome, double valor)
 		{
 			Nome = nome;
-			this.valor = valor;
+			Valor = valor;
 		}
 
 		public Livro(string nome, Editora editora)
