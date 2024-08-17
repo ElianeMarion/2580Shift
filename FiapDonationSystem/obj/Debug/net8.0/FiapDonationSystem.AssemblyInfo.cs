@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiapDonationSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cc914737b9814ab3140adcfad4540270c9e909c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29258b476c682c31ae0353ea68d6a235eda9bbca")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiapDonationSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiapDonationSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

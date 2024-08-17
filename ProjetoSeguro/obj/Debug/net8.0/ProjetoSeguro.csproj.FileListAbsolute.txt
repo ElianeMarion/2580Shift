@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\bin\Debug\net8.0\ProjetoSeguro.exe
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\bin\Debug\net8.0\ProjetoSeguro.deps.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\bin\Debug\net8.0\ProjetoSeguro.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\bin\Debug\net8.0\ProjetoSeguro.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\bin\Debug\net8.0\ProjetoSeguro.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.sourcelink.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\refint\ProjetoSeguro.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ProjetoSeguro.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoSeguro\obj\Debug\net8.0\ref\ProjetoSeguro.dll

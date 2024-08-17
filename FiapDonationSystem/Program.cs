@@ -7,7 +7,7 @@ namespace FiapDonationSystem
 	{
 		static void Main(string[] args)
 		{
-			Roupa roupa = new Roupa();
+			/*Roupa roupa = new Roupa();
 			roupa.Nome = "Jaqueta jeans";
 			roupa.Descricao = "Jaqueta Jeans azul claro com detalhes em renda";
 			roupa.Genero = "Feminino";
@@ -20,6 +20,23 @@ namespace FiapDonationSystem
 			produto.Descricao = "";
 			produto.Foto = "";
 			produto.Genero = "Masculino";
+			*/
+			try
+			{
+				Usuario usuario = new Usuario();
+				usuario.Autenticar("", "123");
+
+
+			}catch (ArgumentNullException ex)
+			{
+				Console.WriteLine(ex.ToString());
+			}catch (NullReferenceException ex) {
+				Console.WriteLine(ex.ToString());
+			}catch (Exception ex)
+			{
+				Console.WriteLine(ex.ToString());
+			}
+			
 
 		}
 	}

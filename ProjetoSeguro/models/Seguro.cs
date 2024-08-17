@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoSeguro.models
 {
-	public class Seguro
+	public abstract class Seguro
 	{
 		public DateTime DataContratacao { get; set; }
 		public double Valor { get; set; }

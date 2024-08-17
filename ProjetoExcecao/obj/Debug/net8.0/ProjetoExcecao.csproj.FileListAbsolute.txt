@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\bin\Debug\net8.0\ProjetoExcecao.exe
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\bin\Debug\net8.0\ProjetoExcecao.deps.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\bin\Debug\net8.0\ProjetoExcecao.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\bin\Debug\net8.0\ProjetoExcecao.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\bin\Debug\net8.0\ProjetoExcecao.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.sourcelink.json
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\refint\ProjetoExcecao.dll
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.pdb
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ProjetoExcecao.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2024\Fiap\Shift\C#\2580Shift\Projetos\ProjetoExcecao\obj\Debug\net8.0\ref\ProjetoExcecao.dll

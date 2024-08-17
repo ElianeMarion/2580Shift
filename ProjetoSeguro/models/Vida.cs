@@ -16,5 +16,6 @@ namespace ProjetoSeguro.models
 		{
 			return 42;
 		}
+
 	}
 }
